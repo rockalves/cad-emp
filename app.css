@@ -6,7 +6,7 @@ Screen {
 #sidebar {
     width: 40;
     height: 100%;
-    border-right: thick 0ch;
+    border-right: thick solid #00ff00;
     transition: offset 500ms in_out_sine;
     background: black;
     overflow: hidden;
